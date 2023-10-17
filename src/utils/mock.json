@@ -1,0 +1,590 @@
+[
+	{
+		"id": 1,
+		"age": 25,
+		"gender": "female",
+		"fitnessLevel": "beginner",
+		"targetMuscle": "upper body",
+		"duration": 4,
+		"plan": "specific",
+		"description": "Strength training for upper body",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Bench Press", "Push-Ups", "Dumbbell Rows"],
+				"sets": 3,
+				"reps": 10
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Overhead Press", "Tricep Dips", "Pull-Ups"],
+				"sets": 3,
+				"reps": 10
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Incline Bench Press", "Bicep Curls", "Lat Pulldowns"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["Push Press", "Hammer Curls", "Chin-Ups"],
+				"sets": 3,
+				"reps": 12
+			}
+		]
+	},
+	{
+		"id": 2,
+		"age": 30,
+		"gender": "male",
+		"fitnessLevel": "intermediate",
+		"targetMuscle": "lower body",
+		"duration": 4,
+		"plan": "general",
+		"description": "Cardio and leg workouts",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Squats", "Leg Press", "Deadlifts"],
+				"sets": 3,
+				"reps": 10
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Lunges", "Leg Curls", "Calf Raises"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Biking", "Running", "Jumping Jacks"],
+				"sets": 3,
+				"reps": 20
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["Sprints", "Box Jumps", "Burpees"],
+				"sets": 4,
+				"reps": 15
+			}
+		]
+	},
+	{
+		"id": 3,
+		"age": 28,
+		"gender": "female",
+		"fitnessLevel": "advanced",
+		"targetMuscle": "full body",
+		"duration": 8,
+		"plan": "specific",
+		"description": "Full-body strength and conditioning",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Deadlifts", "Squats", "Bench Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Pull-Ups", "Dips", "Leg Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Overhead Press", "Rows", "Lunges"],
+				"sets": 4,
+				"reps": 10
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["Planks", "Russian Twists", "Hanging Leg Raises"],
+				"sets": 3,
+				"reps": 12
+			}
+		]
+	},
+	{
+		"id": 4,
+		"age": 22,
+		"gender": "female",
+		"fitnessLevel": "beginner",
+		"targetMuscle": "core",
+		"duration": 4,
+		"plan": "general",
+		"description": "Core workouts and flexibility exercises",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Planks", "Crunches", "Leg Raises"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Russian Twists", "Bicycle Crunches", "Mountain Climbers"],
+				"sets": 3,
+				"reps": 15
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Hanging Leg Raises", "Side Planks", "Supermans"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["V-Ups", "Toe Touches", "Flutter Kicks"],
+				"sets": 3,
+				"reps": 15
+			}
+		]
+	},
+	{
+		"id": 5,
+		"age": 35,
+		"gender": "male",
+		"fitnessLevel": "intermediate",
+		"targetMuscle": "lower body",
+		"duration": 4,
+		"plan": "specific",
+		"description": "Intensive lower body strength training",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Squats", "Deadlifts", "Leg Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Lunges", "Leg Curls", "Calf Raises"],
+				"sets": 4,
+				"reps": 10
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Hack Squats", "Romanian Deadlifts", "Box Jumps"],
+				"sets": 4,
+				"reps": 12
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["Biking", "Running", "Jumping Jacks"],
+				"sets": 3,
+				"reps": 20
+			}
+		]
+	},
+	{
+		"id": 6,
+		"age": 27,
+		"gender": "female",
+		"fitnessLevel": "advanced",
+		"targetMuscle": "full body",
+		"duration": 4,
+		"plan": "general",
+		"description": "Full-body workouts for overall fitness",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Deadlifts", "Squats", "Bench Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Pull-Ups", "Push-Ups", "Dumbbell Rows"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Overhead Press", "Tricep Dips", "Lat Pulldowns"],
+				"sets": 4,
+				"reps": 10
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["Planks", "Russian Twists", "Hanging Leg Raises"],
+				"sets": 3,
+				"reps": 12
+			}
+		]
+	},
+	{
+		"id": 7,
+		"age": 29,
+		"gender": "male",
+		"fitnessLevel": "beginner",
+		"targetMuscle": "upper body",
+		"duration": 4,
+		"plan": "specific",
+		"description": "Upper body strength and endurance",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Bench Press", "Push-Ups", "Dumbbell Rows"],
+				"sets": 3,
+				"reps": 10
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Overhead Press", "Tricep Dips", "Pull-Ups"],
+				"sets": 3,
+				"reps": 10
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Incline Bench Press", "Bicep Curls", "Lat Pulldowns"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["Push Press", "Hammer Curls", "Chin-Ups"],
+				"sets": 3,
+				"reps": 12
+			}
+		]
+	},
+	{
+		"id": 8,
+		"age": 33,
+		"gender": "female",
+		"fitnessLevel": "intermediate",
+		"targetMuscle": "legs",
+		"duration": 4,
+		"plan": "general",
+		"description": "Leg workouts and cardio routines",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Squats", "Leg Press", "Deadlifts"],
+				"sets": 3,
+				"reps": 10
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Lunges", "Leg Curls", "Calf Raises"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Biking", "Running", "Jumping Jacks"],
+				"sets": 3,
+				"reps": 20
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["Sprints", "Box Jumps", "Burpees"],
+				"sets": 4,
+				"reps": 15
+			}
+		]
+	},
+	{
+		"id": 9,
+		"age": 26,
+		"gender": "male",
+		"fitnessLevel": "advanced",
+		"targetMuscle": "full body",
+		"duration": 4,
+		"plan": "specific",
+		"description": "Comprehensive full-body training program",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Deadlifts", "Squats", "Bench Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Pull-Ups", "Dips", "Leg Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Overhead Press", "Rows", "Lunges"],
+				"sets": 4,
+				"reps": 10
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["Planks", "Russian Twists", "Hanging Leg Raises"],
+				"sets": 3,
+				"reps": 12
+			}
+		]
+	},
+	{
+		"id": 10,
+		"age": 31,
+		"gender": "female",
+		"fitnessLevel": "beginner",
+		"targetMuscle": "core",
+		"duration": 4,
+		"plan": "general",
+		"description": "Core strengthening and flexibility",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Planks", "Crunches", "Leg Raises"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Russian Twists", "Bicycle Crunches", "Mountain Climbers"],
+				"sets": 3,
+				"reps": 15
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Hanging Leg Raises", "Side Planks", "Supermans"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["V-Ups", "Toe Touches", "Flutter Kicks"],
+				"sets": 3,
+				"reps": 15
+			}
+		]
+	},
+	{
+		"id": 11,
+		"age": 28,
+		"gender": "male",
+		"fitnessLevel": "advanced",
+		"targetMuscle": "full body",
+		"duration": 8,
+		"plan": "specific",
+		"description": "Full-body strength and conditioning",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Deadlifts", "Squats", "Bench Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Pull-Ups", "Dips", "Leg Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Overhead Press", "Rows", "Lunges"],
+				"sets": 4,
+				"reps": 10
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["Planks", "Russian Twists", "Hanging Leg Raises"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 5",
+				"exercise": ["Deadlifts", "Squats", "Bench Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 6",
+				"exercise": ["Pull-Ups", "Dips", "Leg Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 7",
+				"exercise": ["Overhead Press", "Rows", "Lunges"],
+				"sets": 4,
+				"reps": 10
+			},
+			{
+				"week": "Week 8",
+				"exercise": ["Planks", "Russian Twists", "Hanging Leg Raises"],
+				"sets": 3,
+				"reps": 12
+			}
+		]
+	},
+	{
+		"id": 21,
+		"age": 35,
+		"gender": "male",
+		"fitnessLevel": "intermediate",
+		"targetMuscle": "lower body",
+		"duration": 16,
+		"plan": "general",
+		"description": "Intensive lower body strength training",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Squats", "Deadlifts", "Leg Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Lunges", "Leg Curls", "Calf Raises"],
+				"sets": 4,
+				"reps": 10
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Hack Squats", "Romanian Deadlifts", "Box Jumps"],
+				"sets": 4,
+				"reps": 12
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["Biking", "Running", "Jumping Jacks"],
+				"sets": 3,
+				"reps": 20
+			},
+			{
+				"week": "Week 5",
+				"exercise": ["Squats", "Deadlifts", "Leg Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 6",
+				"exercise": ["Lunges", "Leg Curls", "Calf Raises"],
+				"sets": 4,
+				"reps": 10
+			},
+			{
+				"week": "Week 7",
+				"exercise": ["Hack Squats", "Romanian Deadlifts", "Box Jumps"],
+				"sets": 4,
+				"reps": 12
+			},
+			{
+				"week": "Week 8",
+				"exercise": ["Biking", "Running", "Jumping Jacks"],
+				"sets": 3,
+				"reps": 20
+			},
+			{
+				"week": "Week 9",
+				"exercise": ["Squats", "Deadlifts", "Leg Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 10",
+				"exercise": ["Lunges", "Leg Curls", "Calf Raises"],
+				"sets": 4,
+				"reps": 10
+			},
+			{
+				"week": "Week 11",
+				"exercise": ["Hack Squats", "Romanian Deadlifts", "Box Jumps"],
+				"sets": 4,
+				"reps": 12
+			},
+			{
+				"week": "Week 12",
+				"exercise": ["Biking", "Running", "Jumping Jacks"],
+				"sets": 3,
+				"reps": 20
+			},
+			{
+				"week": "Week 13",
+				"exercise": ["Squats", "Deadlifts", "Leg Press"],
+				"sets": 4,
+				"reps": 8
+			},
+			{
+				"week": "Week 14",
+				"exercise": ["Lunges", "Leg Curls", "Calf Raises"],
+				"sets": 4,
+				"reps": 10
+			},
+			{
+				"week": "Week 15",
+				"exercise": ["Hack Squats", "Romanian Deadlifts", "Box Jumps"],
+				"sets": 4,
+				"reps": 12
+			},
+			{
+				"week": "Week 16",
+				"exercise": ["Biking", "Running", "Jumping Jacks"],
+				"sets": 3,
+				"reps": 20
+			}
+		]
+	},
+	{
+		"id": 12,
+		"age": 29,
+		"gender": "female",
+		"fitnessLevel": "beginner",
+		"targetMuscle": "upper body",
+		"duration": 8,
+		"plan": "general",
+		"description": "Upper body strength and endurance",
+		"workoutSchedule": [
+			{
+				"week": "Week 1",
+				"exercise": ["Bench Press", "Push-Ups", "Dumbbell Rows"],
+				"sets": 3,
+				"reps": 10
+			},
+			{
+				"week": "Week 2",
+				"exercise": ["Overhead Press", "Tricep Dips", "Pull-Ups"],
+				"sets": 3,
+				"reps": 10
+			},
+			{
+				"week": "Week 3",
+				"exercise": ["Incline Bench Press", "Bicep Curls", "Lat Pulldowns"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 4",
+				"exercise": ["Push Press", "Hammer Curls", "Chin-Ups"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 5",
+				"exercise": ["Bench Press", "Push-Ups", "Dumbbell Rows"],
+				"sets": 3,
+				"reps": 10
+			},
+			{
+				"week": "Week 6",
+				"exercise": ["Overhead Press", "Tricep Dips", "Pull-Ups"],
+				"sets": 3,
+				"reps": 10
+			},
+			{
+				"week": "Week 7",
+				"exercise": ["Incline Bench Press", "Bicep Curls", "Lat Pulldowns"],
+				"sets": 3,
+				"reps": 12
+			},
+			{
+				"week": "Week 8",
+				"exercise": ["Push Press", "Hammer Curls", "Chin-Ups"],
+				"sets": 3,
+				"reps": 12
+			}
+		]
+	}
+]
